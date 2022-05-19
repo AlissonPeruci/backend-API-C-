@@ -28,3 +28,8 @@ C:\Users\Anderson Peruci\Desktop\minimal\userComentarios\userComentarios\obj\Deb
 C:\Users\Anderson Peruci\Desktop\minimal\userComentarios\userComentarios\obj\Debug\net5.0\ref\userComentarios.dll
 C:\Users\Anderson Peruci\Desktop\minimal\userComentarios\userComentarios\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Anderson Peruci\Desktop\minimal\userComentarios\userComentarios\bin\Debug\net5.0\Mock\mock.json
+C:\Users\Anderson Peruci\Desktop\minimal\userComentarios\userComentarios\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\Anderson Peruci\Desktop\minimal\userComentarios\userComentarios\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Anderson Peruci\Desktop\minimal\userComentarios\userComentarios\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Anderson Peruci\Desktop\minimal\userComentarios\userComentarios\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\Anderson Peruci\Desktop\minimal\userComentarios\userComentarios\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

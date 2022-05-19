@@ -7,7 +7,7 @@ namespace userComentarios
         
         public string nome_usuario { get; set; }
 
-        public int comentario_id { get; set; }
+        public int key { get; set; }
         
         public string data { get; set; }
         
